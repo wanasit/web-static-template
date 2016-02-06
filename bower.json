@@ -1,0 +1,22 @@
+{
+  "name": "web-static-template",
+  "version": "0.0.0",
+  "authors": [
+    "wanasit <berrysboy@gmail.com>"
+  ],
+  "description": "A static web template",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "d3": "~3.5.14",
+    "foundation": "~5.5.3"
+  }
+}
